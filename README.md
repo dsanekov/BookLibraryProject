@@ -38,11 +38,11 @@ Book page (books/{id}). The data of the book is displayed here. You can unassign
 
 People page (/people). Here is a list of all readers. You can go to the reader. You can edit the reader.
 
-### Person
+### Reader
 
 ![image](https://user-images.githubusercontent.com/119116584/220573199-27a21e0c-d4a1-454d-9232-96536e89b24d.png)
 
-Person page (person/{id}. Reader data is displayed here. You can see the books that the reader has chosen. You can also edit, delete the reader.
+Reader page (people/{id}). Reader data is displayed here. You can see the books that the reader has chosen. You can also edit, delete the reader.
 
 ## PostgreSQL
 Before running the application, create two tables.
