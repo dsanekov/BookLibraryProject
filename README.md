@@ -7,6 +7,7 @@ Libraries web application. You can register new readers, change their data, give
 - Spring Core,
 - Spring MVC,
 - JDBC API, JdbcTemplate,
+- Thymeleaf,
 - PostgreSQL,
 - CSS,
 - GIT,
