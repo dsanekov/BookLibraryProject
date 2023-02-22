@@ -3,14 +3,14 @@ Libraries web application. You can register new readers, change their data, give
 
 ## Technology stack
 
--Java Core,
--Spring Core,
--Spring MVC,
--JDBC API, JdbcTemplate,
--PostgreSQL,
--CSS,
--GIT,
--IDEA.
+- Java Core,
+- Spring Core,
+- Spring MVC,
+- JDBC API, JdbcTemplate,
+- PostgreSQL,
+- CSS,
+- GIT,
+- IDEA.
 
 ## Web interface
 
