@@ -1,5 +1,5 @@
 # Book library project
-Libraries web application. You can register new readers, change their data, give them books. You can also create and edit books, and assign a book to a reader.
+Library CRUD web application. You can register new readers, change their data, give them books. You can also create and edit books, and assign a book to a reader.
 
 ## Technology stack
 
